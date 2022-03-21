@@ -1,4 +1,5 @@
-# Weather-ReactJS
+# Weather App ReactJS
+## Adam Foody 
 
 Search for the weather by country and city created using React JS and OpenWeatherMap API. 
 Searchfield utilises MUI textfield component.
