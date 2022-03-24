@@ -4,8 +4,7 @@
 Search for the weather by country and city created using React JS and OpenWeatherMap API. 
 Searchfield utilises MUI textfield component.
 
-![image](https://user-images.githubusercontent.com/78685641/159302963-75ca458c-6d78-4e74-aad4-5404be5f5401.png)
-
+![image](https://user-images.githubusercontent.com/78685641/159906929-92ba60ae-8c25-498c-b77f-b08eb94bf1ae.png)
 
 ## To start: 
 
